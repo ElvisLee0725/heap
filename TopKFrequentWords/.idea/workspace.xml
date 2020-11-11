@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="63990b64-1a5a-4fab-8dce-46ab4645fa4a" name="Default Changelist" comment="" />
+    <list default="true" id="63990b64-1a5a-4fab-8dce-46ab4645fa4a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="95">
+              <caret line="5" column="58" selection-start-line="5" selection-start-column="58" selection-end-line="5" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -43,10 +45,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1971" />
-    <option name="y" value="95" />
-    <option name="width" value="1499" />
-    <option name="height" value="907" />
+    <option name="x" value="1776" />
+    <option name="y" value="70" />
+    <option name="width" value="1822" />
+    <option name="height" value="1006" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -75,7 +77,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1604962613447" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1605052734299" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -121,7 +123,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1971" y="95" width="1499" height="907" extended-state="0" />
+    <frame x="1816" y="70" width="1648" height="931" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -129,7 +131,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32189432" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2920299" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -137,7 +139,7 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32883435" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31942788" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -155,8 +157,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="95">
+          <caret line="5" column="58" selection-start-line="5" selection-start-column="58" selection-end-line="5" selection-end-column="58" />
         </state>
       </provider>
     </entry>
