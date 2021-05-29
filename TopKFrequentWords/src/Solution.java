@@ -79,11 +79,12 @@ public class Solution {
             }
         }
 
-        String [] res = new String[k];
-        for(int i = k-1; i >= 0; i--) {
-            res[i] = minHeap.poll().getKey();
+        List<String> res = new ArrayList<>();
+        while(k > 0) {
+            res.add(minHeap.poll().getKey());
+            k--;
         }
-
-        return Arrays.asList(res);
+        Collections.reverse(res);
+        return res;
     }
 }
